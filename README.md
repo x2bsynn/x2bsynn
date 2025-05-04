@@ -4,11 +4,10 @@ Welcome to my GitHub profile! I'm passionate about technology, learning new thin
 
 ### 🔭 I’m currently working on
 - Personal projects and open-source contributions
-- Enhancing my skills in **web development** and **software engineering**
+- Enhancing my skills in **web development** and **computer engineering**
 
 ### 🌱 I’m currently learning
-- Full Stack Development (JavaScript, Node.js, React)
-- DevOps fundamentals and cloud technologies
+- Full Stack Development (JavaScript, Node.js, MongoDB, Tailwind CSS)
 - Algorithms and data structures
 
 ### 👯 I’m looking to collaborate on
