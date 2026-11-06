@@ -9,7 +9,7 @@ I'm continuously expanding my technical knowledge through hands-on projects, exp
 ### 🔭 Currently Working On
 
 - **[AWSSBG-CDM Website](https://awssbg-cdm.live)** – Developing and maintaining the official website of the AWS Student Builder Group at Colegio de Muntinlupa, powered by AWS cloud services.
-- **Personal Portfolio Website(https://jcwagan.tech)** – Building my personal portfolio to showcase my projects, technical experience, and work.
+- **[Personal Portfolio Website](https://jcwagan.tech)** – Building my personal portfolio to showcase my projects, technical experience, and work.
 - Exploring cloud infrastructure, cybersecurity, backend development, and application security.
 
 ### 🚀 Featured Project
